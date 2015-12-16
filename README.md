@@ -10,7 +10,7 @@ Make with makefile.
 
 Then:
 
-./assn1 [q|m] filename
+    ./assn1 [q|m] filename
 
 where:
 
