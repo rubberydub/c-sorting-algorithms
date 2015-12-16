@@ -2,7 +2,7 @@
 
 This is an implementation of mergesort and quicksort in C using explicit stacks.
 
-I wrote it for the University of Melbourne Class Design of Algorithms.
+I wrote this during my studies for the University of Melbourne Class Design of Algorithms.
 
 Usage:
 
